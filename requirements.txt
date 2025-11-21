@@ -1,6 +1,8 @@
-Flask==3.0.0
-Flask-SQLAlchemy==3.1.1
-APScheduler==3.10.4
-ccxt==4.1.14
-pandas==2.1.1
-gunicorn==21.2.0
+Flask
+Flask-SQLAlchemy
+APScheduler
+ccxt
+pandas>=2.2.0
+numpy<2.0.0
+gunicorn
+requests
